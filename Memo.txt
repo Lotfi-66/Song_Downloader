@@ -1,0 +1,8 @@
+//pour rentrer en virtualisation python
+source ~/spotipy_env/bin/activate
+
+//executer pour télécharger l'album
+./download_album.sh
+
+//executer pour generer du sql 
+./generate_sql.sh
