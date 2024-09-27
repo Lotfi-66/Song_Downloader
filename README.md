@@ -1,6 +1,18 @@
+**Installer git** 
+```bash
+apt install git
+```
+**clone git** 
+```bash
+git clone https://github.com/adarshaddee/root.git
+```
 **Installer Spotipy** 
 ```bash
 pip install spotipy
+```
+**Installer ffmpeg** 
+```bash
+pkg install ffmpeg
 ```
 **Installer yt-dlp** 
 ```bash
