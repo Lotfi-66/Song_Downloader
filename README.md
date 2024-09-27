@@ -1,3 +1,11 @@
+**Installer le pkg python** 
+```bash
+pkg install python
+```
+**Crée la virtualisation**
+```bash
+ python3 -m venv ~/spotipy_env
+```
 **Pour rentrer en virtualisation python**
 ```bash
 source ~/spotipy_env/bin/activate
