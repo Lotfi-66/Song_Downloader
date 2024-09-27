@@ -1,3 +1,15 @@
+**Installer Spotipy** 
+```bash
+pip install spotipy
+```
+**Installer yt-dlp** 
+```bash
+pip install yt-dlp
+```
+**Installer AndroidTools** 
+```bash
+pkg install android-tools
+```
 **Installer le pkg python** 
 ```bash
 pkg install python
