@@ -2,6 +2,10 @@
 ```bash
 apt install git
 ```
+**Installer mpv** 
+```bash
+pkg install mpv
+```
 **clone git** 
 ```bash
 git clone https://github.com/adarshaddee/root.git
