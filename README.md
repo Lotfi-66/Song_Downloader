@@ -1,3 +1,7 @@
+**Installer eye** 
+```bash
+pip install eyeD3
+```
 **Installer git** 
 ```bash
 apt install git
